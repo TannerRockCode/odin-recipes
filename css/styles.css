@@ -1,0 +1,41 @@
+* {
+    font: "Verdana", "Arial", sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul li {
+    font-size: 22px;
+}
+
+ol li {
+    font-size: 22px;
+}
+
+li a {
+    font: "Verdana", "Arial", sans-serif;
+    font-size: 28px;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 34px;
+}
+
+h3 {
+    font-size: 32px
+}
+
+h4 {
+    font-size: 28px;
+}
+
